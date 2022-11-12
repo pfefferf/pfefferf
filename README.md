@@ -1,3 +1,5 @@
+<a rel="me" href="https://mastodon.cloud/@fjpepper">Mastodon</a>
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pfefferf&show_icons=true&theme=gruvbox)
 
 <!--
